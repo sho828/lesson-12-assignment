@@ -70,7 +70,7 @@ const login = () => {
   border-top: 4px solid #040000;
   border-bottom: 2px solid #34495e;
   text-align: center;
-  padding: 20px 0 28px;
+  padding: 20px 0 48px;
   margin-bottom: 24px;
 }
 
